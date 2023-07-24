@@ -51,7 +51,7 @@ body {
 }
 
 .input-box input::placeholder {
-    color: yellow;
+    color: #3b2211;
 }
 
 .input-box i {
